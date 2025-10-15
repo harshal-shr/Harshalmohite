@@ -1,0 +1,5 @@
+{
+  "name": "AI Prompt Generator",
+  "description": "An intelligent tool that helps users craft detailed and effective prompts for large language models. Simply provide a basic idea, and the AI will generate a well-structured prompt to get the best results.",
+  "requestFramePermissions": []
+}
